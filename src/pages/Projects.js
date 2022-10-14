@@ -4,6 +4,8 @@ import GithubInfo from '../components/GithubInfo'
 
 
 const Projects = () => {
+  document.title = "Projects"
+  
   return ( 
     <>
     <div className='project-cards'>

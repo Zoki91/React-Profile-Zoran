@@ -7,7 +7,6 @@ import Resume from './pages/Resume'
 import About from './pages/About'
 import Navbar from './components/Navbar'
 
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (

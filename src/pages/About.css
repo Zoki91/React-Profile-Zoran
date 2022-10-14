@@ -1,0 +1,105 @@
+body {
+  background: linear-gradient(90deg, #000 43%, #484343 100%);
+}
+
+.about {
+  width: 100%;
+}
+
+.about-wrapper {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: flex-start;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.about-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.about-image {
+  display: flex;
+  align-content: flex-start;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: row;
+  flex: 1 1 60%;
+}
+
+.about-image img {
+  max-width: 100%;
+}
+
+.about-wrapper-content {
+  display: flex;
+  flex: 1 1 40%;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-content {
+  background-color: #f5f5f5;
+  width: 70%;
+  padding: 2.5rem;
+  border-radius: 1rem;
+  transition: all 0.15s linear;
+}
+
+.about-content:hover {
+  transform: scale(1.05);
+}
+
+div[class*="about-content-"] {
+  padding: 0.5rem 0;
+}
+
+.about-content-greeting span {
+  color: #515151;
+}
+
+.about-content-name h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  letter-spacing: -2.5px;
+}
+
+.about-content-description span {
+  font-weight: lighter;
+}
+.about-content-info {
+}
+
+.about-content-info-item span {
+  font-weight: lighter;
+}
+
+.icon-email {
+}
+
+span[class*="icon-"] svg {
+width: 20px;
+height: 20px;
+}
+
+span[class*="icon-"] {
+margin-right: .75rem;
+  }
+
+.about-content-info-item {
+}
+
+.icon-city {
+}
+
+.about-content-info-item {
+}
+
+.icon-github {
+}
