@@ -3,15 +3,18 @@ import { Link } from "react-router-dom";
 import "./Navbar.css";
 
 const Navbar = () => {
+  const toggleNavbar = () => {document.getElementById("navbar-menu").classList.toggle("show");};
   return (
     <nav className="navbar">
       <div className="navbar-container">
         <div className="navbar-brand">
-          <Link to="/">LOGO</Link>
+          <Link to="/"><img src="./images/logo.png" alt="" /></Link>
         </div>
 
+<button className="navbar-responsive btn" onClick={()=>{toggleNavbar()}}>☰</button>
+
         <div className="navbar-menu">
-          <ul className="navbar-menu-items">
+          <ul className="navbar-menu-items" id="navbar-menu">
             <li className="navbar-menu-item">
               <Link to="/About">About Me</Link>
             </li>

@@ -1,6 +1,9 @@
-body {
+/* body {
   background: linear-gradient(90deg, #000 43%, #484343 100%);
-}
+} */
+
+@import url("https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
 .about {
   width: 100%;
@@ -13,12 +16,14 @@ body {
   align-content: flex-start;
   justify-content: flex-start;
   align-items: flex-start;
+  
 }
 
 .about-container {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  
 }
 
 .about-image {
@@ -50,6 +55,7 @@ body {
   padding: 2.5rem;
   border-radius: 1rem;
   transition: all 0.15s linear;
+  
 }
 
 .about-content:hover {
@@ -68,16 +74,19 @@ div[class*="about-content-"] {
   font-size: 2.5rem;
   font-weight: bold;
   letter-spacing: -2.5px;
+  font-family: 'Yeseva One', cursive;
 }
 
 .about-content-description span {
   font-weight: lighter;
+  color: #515151;
 }
 .about-content-info {
 }
 
 .about-content-info-item span {
   font-weight: lighter;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .icon-email {

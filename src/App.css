@@ -38,10 +38,17 @@
   }
 }
 
-/* 
-background-image: url("https://images.unsplash.com/photo-1510511459019-5dda7724fd87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
-position: fixed;
-min-width: 100%;
-min-height: 100%;
-background-size: cover;
-background-position: center; */
+.btn {
+  padding: .5rem .75rem;
+  outline: 0;
+  border-color: transparent;
+  border-image: none;
+  border-style: none;
+  border-width: 4px;
+  border-radius: 0.75rem;
+  cursor: pointer;
+}
+
+.show {
+  display: block!important;
+}

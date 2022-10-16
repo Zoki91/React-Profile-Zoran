@@ -1,15 +1,9 @@
 import React from "react";
-import Footer from "../components/Footer";
-import VideoBG from '../components/VideoBG'
+import VideoBG from "../components/VideoBG";
 
 const Home = () => {
-  document.title = "Zoran - Portfolio"
-  return (
-    <div>
-      <VideoBG />
-      <Footer />
-    </div>
-  );
+  document.title = "Zoran - Portfolio";
+  return <VideoBG />;
 };
 
 export default Home;
