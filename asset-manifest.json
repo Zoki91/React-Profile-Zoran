@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Profile-Zoran/static/css/main.75f0e5ed.css",
-    "main.js": "/React-Profile-Zoran/static/js/main.7135fa09.js",
+    "main.js": "/React-Profile-Zoran/static/js/main.f3807ee1.js",
     "static/js/787.d6b6fdef.chunk.js": "/React-Profile-Zoran/static/js/787.d6b6fdef.chunk.js",
     "static/media/video-bg.mp4": "/React-Profile-Zoran/static/media/video-bg.1fd3af3fdc9339d89c13.mp4",
     "static/media/project2.png": "/React-Profile-Zoran/static/media/project2.71c25cd869ce2cfb6437.png",
@@ -15,11 +15,11 @@
     "static/media/challenge7.png": "/React-Profile-Zoran/static/media/challenge7.3e3445f74ea9a56042ed.png",
     "index.html": "/React-Profile-Zoran/index.html",
     "main.75f0e5ed.css.map": "/React-Profile-Zoran/static/css/main.75f0e5ed.css.map",
-    "main.7135fa09.js.map": "/React-Profile-Zoran/static/js/main.7135fa09.js.map",
+    "main.f3807ee1.js.map": "/React-Profile-Zoran/static/js/main.f3807ee1.js.map",
     "787.d6b6fdef.chunk.js.map": "/React-Profile-Zoran/static/js/787.d6b6fdef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75f0e5ed.css",
-    "static/js/main.7135fa09.js"
+    "static/js/main.f3807ee1.js"
   ]
 }
