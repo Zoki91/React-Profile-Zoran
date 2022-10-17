@@ -24,7 +24,7 @@ Just as you did in the module project, you’ll need to deploy this application 
 
 ## Deployment
 
-Please go to this link to view my portfolio. 
+Please go to this link to view my portfolio. https://zoki91.github.io/React-Profile-Zoran/
 
 #
 
