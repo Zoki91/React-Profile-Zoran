@@ -1,11 +1,11 @@
-import React from 'react'
-import videoBg from '../Assets/video-bg.mp4'
-import '../components/VideoBG.css'
+import React from "react";
+import videoBg from "../Assets/video-bg.mp4";
+import "../components/VideoBG.css";
 
 const Video = () => {
   return (
-    <div className='main'>
-      <div className='wrapper'>
+    <div className="main">
+      <div className="wrapper">
         <video src={videoBg} autoPlay loop muted />
         <div className="overlay"></div>
         <div className="content">
@@ -14,7 +14,7 @@ const Video = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Video
+export default Video;

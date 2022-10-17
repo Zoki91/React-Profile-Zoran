@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-container">
         <div className="navbar-brand">
-          <Link to="/"><img src="./images/logo.png" alt="" /></Link>
+          <Link to="/"><img src="../images/logo.png" alt="" /></Link>
         </div>
 
 <button className="navbar-responsive btn" onClick={()=>{toggleNavbar()}}>☰</button>
