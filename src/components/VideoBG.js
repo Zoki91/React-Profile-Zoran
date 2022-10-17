@@ -1,5 +1,5 @@
 import React from 'react'
-import videoBg from '../Assets/video-BG1.mp4'
+import videoBg from '../Assets/video-bg.mp4'
 import '../components/VideoBG.css'
 
 const Video = () => {
