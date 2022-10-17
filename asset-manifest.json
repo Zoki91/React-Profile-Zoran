@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/React-Profile-Zoran/static/css/main.75f0e5ed.css",
-    "main.js": "/React-Profile-Zoran/static/js/main.107bf5bb.js",
+    "main.js": "/React-Profile-Zoran/static/js/main.5bba35e2.js",
     "static/js/787.d6b6fdef.chunk.js": "/React-Profile-Zoran/static/js/787.d6b6fdef.chunk.js",
     "static/media/video-bg.mp4": "/React-Profile-Zoran/static/media/video-bg.1fd3af3fdc9339d89c13.mp4",
+    "static/media/about-me.jpg": "/React-Profile-Zoran/static/media/about-me.1953e37abeb6dcd24a60.jpg",
     "static/media/logo.png": "/React-Profile-Zoran/static/media/logo.e514e1bce1cc48be132d.png",
     "index.html": "/React-Profile-Zoran/index.html",
     "main.75f0e5ed.css.map": "/React-Profile-Zoran/static/css/main.75f0e5ed.css.map",
-    "main.107bf5bb.js.map": "/React-Profile-Zoran/static/js/main.107bf5bb.js.map",
+    "main.5bba35e2.js.map": "/React-Profile-Zoran/static/js/main.5bba35e2.js.map",
     "787.d6b6fdef.chunk.js.map": "/React-Profile-Zoran/static/js/787.d6b6fdef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75f0e5ed.css",
-    "static/js/main.107bf5bb.js"
+    "static/js/main.5bba35e2.js"
   ]
 }
