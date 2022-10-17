@@ -21,8 +21,8 @@ const Card = (props) => {
       </div>
 
       <div className="card-footer">
-        <button className="btn card-btn-github" href={card.github}>GitHub Repo</button>
-        <button className="btn card-btn-liveview" href={card.liveView}>Live View</button>
+        <button className="btn card-btn-github" target="_blank" href={card.github}>GitHub Repo</button>
+        <button className="btn card-btn-liveview" target="_blank" href={card.liveView}>Live View</button>
       </div>
     </div>
 

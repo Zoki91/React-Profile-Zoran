@@ -24,9 +24,7 @@ const About = () => {
 
               <div className="about-content-description">
                 <span>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
-                  veniam laborum dolorum ipsum voluptatibus quis at expedita
-                  debitis, ducimus beatae.
+                  I am currently finishing off my Coding Bootcamp at Monash University. I have always had a passion in computers and design. Please feel free to contact me.
                 </span>
               </div>
 

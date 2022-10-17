@@ -28,7 +28,7 @@ const Navbar = () => {
             </li>
 
             <li className="navbar-menu-item">
-              <a href="/media/sample.pdf" target="_blank">
+              <a href="/media/Zoran Mitrevski - Resume.pdf" target="_blank">
                 Resume
               </a>
             </li>
