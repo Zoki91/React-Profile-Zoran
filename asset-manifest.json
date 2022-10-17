@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/React-Profile-Zoran/static/css/main.75f0e5ed.css",
-    "main.js": "/React-Profile-Zoran/static/js/main.ace9b347.js",
+    "main.js": "/React-Profile-Zoran/static/js/main.1d8aca16.js",
     "static/js/787.d6b6fdef.chunk.js": "/React-Profile-Zoran/static/js/787.d6b6fdef.chunk.js",
     "static/media/video-bg.mp4": "/React-Profile-Zoran/static/media/video-bg.1fd3af3fdc9339d89c13.mp4",
     "index.html": "/React-Profile-Zoran/index.html",
     "main.75f0e5ed.css.map": "/React-Profile-Zoran/static/css/main.75f0e5ed.css.map",
-    "main.ace9b347.js.map": "/React-Profile-Zoran/static/js/main.ace9b347.js.map",
+    "main.1d8aca16.js.map": "/React-Profile-Zoran/static/js/main.1d8aca16.js.map",
     "787.d6b6fdef.chunk.js.map": "/React-Profile-Zoran/static/js/787.d6b6fdef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75f0e5ed.css",
-    "static/js/main.ace9b347.js"
+    "static/js/main.1d8aca16.js"
   ]
 }
